@@ -12,6 +12,16 @@
 
 ---
 
+## Official Technical References
+
+The public project pages provide the current technical description, development status and company information:
+
+- [Technology and development status (English)](https://system-jimmy.com/en/technology)
+- [Technologie und Entwicklungsstand (Deutsch)](https://system-jimmy.com/technologie)
+- [Company, registry information and contact](https://system-jimmy.com/unternehmen)
+
+These are first-party project disclosures. A patent application is not a granted patent, and technical targets are not independently validated test results. This repository is a public project overview; it is not the production website source code.
+
 ## Overview
 
 **System JIMMY** is an automotive technology concept focused on integrating electrical energy storage directly into a vehicle's structural body components.
@@ -84,3 +94,4 @@ For official information, updates, or inquiries, visit:
 **SYSTEM JIMMY — The vehicle structure as an energy-storage opportunity.**
 
 </div>
+
